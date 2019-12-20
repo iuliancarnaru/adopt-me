@@ -21,6 +21,14 @@
   - portal
 - reach-router --> [visit oficial website](https://reach.tech/router)
 
+### Debug technique:
+
+```javascript
+<pre>
+  <code>{JSON.stringify(props, null, 4)}</code>
+</pre>
+```
+
 ##### Start date: 17/12/2019
 
 #### ~~[See it live]()~~
