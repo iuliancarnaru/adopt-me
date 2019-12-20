@@ -2,6 +2,8 @@
 
 ### ...brings humans and animals together.
 
+![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/first-step.png "Test image for readme file")
+
 ## The project is created using:
 
 - .prettierrc default config file (npm i prettier) : {}
@@ -22,5 +24,3 @@
 ##### Start date: 17/12/2019
 
 #### ~~[See it live]()~~
-
-![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/first-step.png "Test image for readme file")
