@@ -3,6 +3,7 @@
 ### ...brings humans and animals together.
 
 ![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot.jpg "Project screenshot")
+![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot1.jpg "Project screenshot1")
 
 ## The project is created using:
 
