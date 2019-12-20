@@ -14,7 +14,7 @@ const Results = ({ pets }) => {
             animal={pet.type}
             name={pet.name}
             breed={pet.breeds.primary}
-            media={pet.photo}
+            media={pet.photos}
             location={`${pet.contact.address.city}, ${pet.contact.address.state}`}
           />
         ))
