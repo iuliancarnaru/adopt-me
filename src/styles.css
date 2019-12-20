@@ -94,10 +94,6 @@ header > a,
   text-indent: -9999px;
 }
 
-#root > div {
-  text-align: center;
-}
-
 .pet h2 {
   white-space: nowrap;
   font-weight: normal;
