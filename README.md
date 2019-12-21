@@ -1,9 +1,10 @@
 # `Adopt me!`
 
-### ...brings humans and animals together.
+### ...brings humans and animals together (using petfinder.com API).
 
-![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot.jpg "Project screenshot")
-![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot1.jpg "Project screenshot1")
+![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot.jpg "Main page")
+![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot1.jpg "Details page")
+![alt text](https://raw.githubusercontent.com/iuliancarnaru/adopt-me/master/assets/images/SharedScreenshot2.jpg "Adopt modal")
 
 ## The project is created using:
 
